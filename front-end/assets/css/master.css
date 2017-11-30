@@ -13,6 +13,9 @@ body > footer {
     line-height: 60px;
     background-color: #f5f5f5;
 }
+.sugest {
+	position: fixed;
+}
 body > footer > div > div {
 	float: right;
 }
@@ -69,4 +72,8 @@ body > footer > div {
 }
 .passo > div > h3 {
 	color: #223843;
+}
+body > div.container.text-center > div:nth-child(4) > div.col-md-10 > div {
+	background-color: #61b3aa;
+	border-color: #009688;
 }
