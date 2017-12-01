@@ -1,0 +1,75 @@
+	[{
+	
+	"computador": "Negativo",
+	"valor" : 200.00,
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Acex",
+	"valor" : 700.00,	
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Razer Pro",
+	"valor" : 1200.00,
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Moba Master",
+	"valor" : 1400.00,
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Dota2 Invitation",
+	"valor" : 1600.00,	
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Acel Word",
+	"valor" : 1800.00,	
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Legends V2",
+	"valor" : 2000.00,	
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Razer Extreme Pro",
+	"valor" : 2500.00,
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Dino Hard",
+	"valor" : 2750.00,	
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Extreme Condition",
+	"valor" : 3000.00,	
+	"src" : "assets/images/pc_dark.png"
+	},
+	{
+	
+	"computador": "Division X",
+	"valor" : 3500.00,	
+	"src" : "assets/images/pc_dark.png"
+	}
+	,
+	{
+	
+	"computador": "Hard Pubg",
+	"valor" : 4000.00,	
+	"src" : "assets/images/pc_dark.png"
+	}
+
+]

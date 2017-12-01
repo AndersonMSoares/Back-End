@@ -1,0 +1,25 @@
+{
+	 "name": "Shield-Cp",
+	 "description": "Site de sdugestão para montar um pc",
+	 "authors": [
+		 {
+			 "name": "Anderson Marques Soares",
+			 "email": "andersonsoares@alunos.utfpr.edu.br"
+		 },
+		 {
+			 "name": "Tiago Pereira coelho",
+			 "email": "just2009_123@hotmail.com"
+		 },
+		 {
+			 "name": "Vitor Stelmastchuk",
+			 "email": "vitor_s_santos@hotmail.com"
+		 }
+
+	 ],
+	 "require":
+	  	{
+	 		"php": ">=5.2.8",
+	 		"phpmailer/phpmailer": "^6.0",
+ 			"slim/slim": "^2.6"
+	 	}
+}
